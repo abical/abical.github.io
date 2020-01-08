@@ -19,7 +19,7 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
 
-![Love Lies Here Thumbnail](https://say-si.itch.io/love-lies-here)
+![Love Lies Here Thumbnail](https://github.com/abical/abical.github.io/blob/master/p%20image/love%20lies%20here%20menu.png?raw=true)
 
 The full videogame is available for purchase on [SAY Sí's itch.io](https://say-si.itch.io/).
 
