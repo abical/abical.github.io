@@ -24,6 +24,14 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 The full videogame is available for purchase on [SAY Sí's itch.io](https://say-si.itch.io/).
 
+<details><summary>Collaborators</summary>
+<p>
+	
+Created in collaboration with [Lee Ortiz](https://www.instagram.com/eeelbee/?hl=en), Sebastian Alvalos, Alyssa Li Herevia, and Ferris Carrillo for SAY Sí’s HIVE New Media 2018 Summer Game Jam. 
+	
+</p>
+</details>
+
 ### *Mother to Murderer (Mamá a la Asesina)* : La Llorona Zine (2018)
 
 ![mother to murderer presentation](https://github.com/abical/abical.github.io/blob/master/p%20image/presenting%20m2m%20resized.jpg?raw=true)
