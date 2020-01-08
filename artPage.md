@@ -14,11 +14,11 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 </p>
 </details>
 
+
 ### *Love Lies Here* : Video Game
 
-[Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated as a project manager and contributed to the story and programming. The full videogame is available for purchase on [SAY Sí's itch.io](https://say-si.itch.io/).
-
-Created in collaboration with Lee Ortiz, Sebastian Alvalos, Alyssa Li Herevia, and Ferris Carrillo for SAY Sí’s HIVE New Media 2018 Summer Game Jam.
+[Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
+The full videogame is available for purchase on [SAY Sí's itch.io](https://say-si.itch.io/).
 
 ### *Mother to Murderer* : La Llorona Zine
 
