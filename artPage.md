@@ -30,7 +30,8 @@ Mother to Murderer is a poetry zine which  explores the roots of La Llorona in a
 
 ### *Native Origins of La Llorona* : Lead Artist
 
-Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. The project was stylistically inspired by German artist Lotte Reiniger and the works of American silhouettist Kara Walker. After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
+Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. 
+The project was stylistically inspired by the works of German artist Lotte Reiniger and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
 
 ### *Goodnight Charlie* : Radio Drama
 
@@ -40,7 +41,9 @@ The story follows ex-government worker, Charlie, and his wife, Aspen, who are on
 
 ### *Disloyal Camazotz* : Paper Craft
 
-Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece was digitally built in SketchUp and designed using Adobe Illustrator CC. The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
+Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece's 3D structure was digitally designed in [SketchUp](https://www.sketchup.com/), a modeling program, and decorated using Adobe Illustrator CC, a professional level vector art program. 
+
+The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
 ## Abigail's Research and Robotic Projects
 
