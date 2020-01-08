@@ -26,12 +26,14 @@ The full videogame is available for purchase on [SAY Sí's itch.io](https://say-
 
 ### *Mother to Murderer* : La Llorona Zine
 
+![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
+
 Mother to Murderer is a poetry zine which  explores the roots of La Llorona in a more literary depth. This self publication features a collection of original essays, poems, and cover.
 
 ### *Native Origins of La Llorona* : Lead Artist
 
 Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. 
-The project was stylistically inspired by the works of German artist Lotte Reiniger and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
+The project was stylistically inspired by the works of German artist [Lotte Reiniger](https://en.wikipedia.org/wiki/Lotte_Reiniger) and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
 
 ### *Goodnight Charlie* : Radio Drama
 
