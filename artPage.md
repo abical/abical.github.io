@@ -26,9 +26,23 @@ The full videogame is available for purchase on [SAY Sí's itch.io](https://say-
 
 ### *Mother to Murderer* : La Llorona Zine
 
-![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
+![mother to murderer display](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true)
 
 Mother to Murderer is a poetry zine which  explores the roots of La Llorona in a more literary depth. This self publication features a collection of original essays, poems, and cover.
+
+<details><summary>Mother to Murderer Artist Statement</summary>
+<p>
+
+In many global cultures, weeping women serve as cautionary legends. Our local weeping legend, La Llorona, like the region of Texas itself, has witnessed the reign of many powers. Amongst the tides of cultural change that have spanned centuries, several homogenous tales have melded together to form the frightening woman we know today. My zine explores the elusive past of La Llorona, a woman who incites fear in the hearts of children, through poetry and a collection of short essays. 
+
+To capture the possible origins of La Llorona respectfully, I compiled from past projects and current examinations from articles and interviews with locals and historians. Thanks to the joint efforts of myself and my peers, I came to express these findings through a combination of original artistic and historical literature. I wanted Mother to Murderer to gently lead its reader through the various faces that past cultures, such as the Coahuiltecan, Aztecs, and Spanish settlers, have attributed to La Llorona, and how those interpretations reflect the value of women and mothers during those eras of society. Whether it be the reverence of dead mothers or the condemnation of jealousy, La Llorona manifests the societal pondering of the border between life and death or sin and virtue. 
+
+![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
+
+</p>
+</details>
+
+https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true
 
 ### *Native Origins of La Llorona* : Lead Artist
 
