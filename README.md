@@ -3,12 +3,14 @@
 
 ### Harvard University
 
-Abigail currently attends Harvard University in Cambridge, MA. 
+Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. Abigail's art projects can be found here (insert link).
 
 To see more of Abigail's current matters:
 
 [LinkedIn](https://www.linkedin.com/in/abigail-lockhart-calpito-2019243/)
+
 [Facebook](https://www.facebook.com/abigail.lockhartcalpito)
+
 [Twitter](https://twitter.com/alockcalpito)
 
 ## Abigail's Previous Accomplishments
@@ -21,10 +23,10 @@ Abigail was awarded the Director's Award at the conclusion of MITES.
 
 ### S.A.Y. Sí: H.I.V.E. New Media Studio
 
-[San Antonio Youth Sí (SAY Sí)](http://saysi.org/) is an after-school art program where Abigail collaborated with fellow artists to complete individual or group projects on a full week basis. In the HIVE New Media Studio, Abigail had the opportunity to work with various interactive media such as creative coding, audio, animation, and game making. 
+[San Antonio Youth Sí (SAY Sí)](http://saysi.org/) is an after-school art program where Abigail collaborated with fellow artists to complete individual or group projects on a full week basis. 
+Abigail was a student in the [HIVE New Media Studio](http://saysi.org/programs/hive-new-media-program/). There, Abigail had the opportunity to work with various interactive media such as creative coding, audio, animation, and game making. A detailed list of Abigail's SAY Sí projects can be found (insert page link here). 
 
 At the beginning of her senior year, Abigail was hired as a Student Mentor for SAY Sí's Middle School program.
-
 
 
 ### High School
