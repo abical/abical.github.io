@@ -10,7 +10,7 @@ Abigail currently attends Harvard University in Cambridge, MA. She is an aspirin
 Abigail is a mixed media artist with heavy experience with virtual media and a background in traditional art. 
 A detailed list of Abigail's projects can be found on her [projects page](./artPage.html). 
 
-To see more of Abigail's current matters:
+To see more of Abigail:
 
 [LinkedIn](https://www.linkedin.com/in/abigail-lockhart-calpito-2019243/)
 
@@ -42,4 +42,6 @@ At the beginning of her senior year, Abigail was hired as a Student Mentor for S
 
 Abigail attended Providence Catholic School in San Antonio, Texas. Providence is an all girls prepratory school for middle and high schoolers. Abigail distinguished herself by becoming the President of Providence's [Mu Alpha Theta chapter](https://mualphatheta.org/).
 She graduated second in her class in 2019. 
+
+![fam grad photo](https://github.com/abical/abical.github.io/blob/master/p%20image/family%20graduation%20image.jpg?raw=true)
 
