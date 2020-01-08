@@ -22,6 +22,8 @@ To see more of Abigail's current matters:
 
 ### M.I.T.E.S.
 
+![MITES photo](./p image/profile image.jpeg)
+
 [Minority Introduction to Engineering and Science (MITES)](https://oeop.mit.edu/programs/mites) is a highly selective enrichment program for high school juniors interested in pursuing a career in STEM coordinated by MIT’s Office of Engineering Outreach Programs. For six weeks in the summer before their senior  year, students complete rigorous courses similar to freshman year work at the MIT campus. Abigail completed MITES curriculum for Biology, Calculus 1, Physics 1, Humanities 3, and Engineering Design in the summer of 2018.
 
 Abigail was awarded the Director's Award at the conclusion of MITES. 
