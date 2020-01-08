@@ -15,6 +15,7 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 </details>
 
 
+
 ### *Love Lies Here* : Video Game
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
@@ -35,7 +36,7 @@ Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and S
 
 Goodnight Charlie is a radio drama created in Adobe Audition in collaboration with SAY Sí artist, Ella Wilson, for SAY Sí’s 2018 September Showcase. The full podcase episode is available to stream on [SAY Sí's SoundCloud](https://soundcloud.com/user-430523344/good-night-charlie).
 
-The story follows ex government worker, Charlie, and his wife, Aspen, who are on the run from their previous lives and identities. After arriving at a desolate motel, Charlie is mysteriously confronted about his wife’s suspicious behaviors. 
+The story follows ex-government worker, Charlie, and his wife, Aspen, who are on the run from their previous lives and identities. After arriving at a desolate motel, Charlie is mysteriously confronted about his wife’s suspicious behaviors. 
 
 ### *Disloyal Camazotz* : Paper Craft
 
