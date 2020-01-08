@@ -1,4 +1,5 @@
 ## Abigail's Projects
+========================
 
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
@@ -23,3 +24,10 @@ Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and S
 Goodnight Charlie is a radio drama created in Adobe Audition in collaboration with SAY Sí artist, Ella Wilson, for SAY Sí’s 2018 September Showcase. The full podcase episode is available to stream on [SAY Sí's SoundCloud](https://soundcloud.com/user-430523344/good-night-charlie).
 
 The story follows ex government worker, Charlie, and his wife, Aspen, who are on the run from their previous lives and identities. After arriving at a desolate motel, Charlie is mysteriously confronted about his wife’s suspicious behaviors. 
+
+### *Disloyal Camazotz* : Paper Craft
+
+Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece was digitally built in SketchUp and designed using Adobe Illustrator CC. The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
+
+
+
