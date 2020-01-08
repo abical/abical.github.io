@@ -16,7 +16,7 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 
 
-### *Love Lies Here* : Video Game
+### *Love Lies Here* : Video Game (2018)
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
 
@@ -24,9 +24,9 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 The full videogame is available for purchase on [SAY Sí's itch.io](https://say-si.itch.io/).
 
-### *Mother to Murderer* : La Llorona Zine
+### *Mother to Murderer (Mamá a la Asesina)* : La Llorona Zine (2018)
 
-![mother to murderer display](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true)
+![mother to murderer presentation](https://github.com/abical/abical.github.io/blob/master/p%20image/presenting%20m2m%20resized.jpg?raw=true)
 
 Mother to Murderer is a poetry zine which  explores the roots of La Llorona in a more literary depth. This self publication features a collection of original essays, poems, and cover.
 
@@ -37,24 +37,28 @@ In many global cultures, weeping women serve as cautionary legends. Our local we
 
 To capture the possible origins of La Llorona respectfully, I compiled from past projects and current examinations from articles and interviews with locals and historians. Thanks to the joint efforts of myself and my peers, I came to express these findings through a combination of original artistic and historical literature. I wanted Mother to Murderer to gently lead its reader through the various faces that past cultures, such as the Coahuiltecan, Aztecs, and Spanish settlers, have attributed to La Llorona, and how those interpretations reflect the value of women and mothers during those eras of society. Whether it be the reverence of dead mothers or the condemnation of jealousy, La Llorona manifests the societal pondering of the border between life and death or sin and virtue. 
 
+![mother to murderer display](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true)
+
 ![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
+
+Cover displays orginal artwork created by Abigail.
 
 </p>
 </details>
 
 
-### *Native Origins of La Llorona* : Lead Artist
+### *Native Origins of La Llorona* : Lead Artist (2018)
 
 Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. 
 The project was stylistically inspired by the works of German artist [Lotte Reiniger](https://en.wikipedia.org/wiki/Lotte_Reiniger) and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
 
-### *Goodnight Charlie* : Radio Drama
+### *Goodnight Charlie* : Radio Drama (2019)
 
 Goodnight Charlie is a radio drama created in Adobe Audition in collaboration with SAY Sí artist, Ella Wilson, for SAY Sí’s 2018 September Showcase. The full podcase episode is available to stream on [SAY Sí's SoundCloud](https://soundcloud.com/user-430523344/good-night-charlie).
 
 The story follows ex-government worker, Charlie, and his wife, Aspen, who are on the run from their previous lives and identities. After arriving at a desolate motel, Charlie is mysteriously confronted about his wife’s suspicious behaviors. 
 
-### *Disloyal Camazotz* : Paper Craft
+### *Disloyal Camazotz* : Paper Craft (2017)
 
 Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece's 3D structure was digitally designed in [SketchUp](https://www.sketchup.com/), a modeling program, and decorated using Adobe Illustrator CC, a professional level vector art program. 
 
@@ -62,7 +66,7 @@ The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
 ## Abigail's Research and Robotic Projects
 
-### CHOPSTICKZ
+### CHOPSTICKZ (2018)
 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
 
