@@ -42,7 +42,6 @@ To capture the possible origins of La Llorona respectfully, I compiled from past
 </p>
 </details>
 
-https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true
 
 ### *Native Origins of La Llorona* : Lead Artist
 
