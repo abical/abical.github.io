@@ -3,7 +3,12 @@
 
 ### Harvard University
 
-Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. Abigail's art projects can be found here (insert link).
+Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
+
+### Art Career
+
+Abigail is a mixed media artist with heavy experience with virtual media and a background in traditional art. 
+A detailed list of Abigail's projects can be found on her [projects page](./artPage.html). 
 
 To see more of Abigail's current matters:
 
