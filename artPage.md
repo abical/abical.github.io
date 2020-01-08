@@ -1,5 +1,4 @@
-## Abigail's Projects
-========================
+## Abigail's Art Projects
 
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
@@ -28,6 +27,12 @@ The story follows ex government worker, Charlie, and his wife, Aspen, who are on
 ### *Disloyal Camazotz* : Paper Craft
 
 Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece was digitally built in SketchUp and designed using Adobe Illustrator CC. The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
+
+## Abigail's Research and Robotic Projects
+
+### *SAWS Confluence Water Conference* : School Analysis (2017)
+
+
 
 
 
