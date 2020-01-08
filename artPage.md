@@ -2,7 +2,13 @@
 
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
-Atychiphobia was my senior thesis at SAY Sí and an interactive installation based on the struggles I have experienced with the educational system. The expectations enforced by myself, my loved ones, and my community manifested themselves in intense dread in the face of failure or academic tribulations. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
+Atychiphobia was Abigail's senior thesis at SAY Sí and an interactive installation based on the struggles I have experienced with the educational system. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
+
+  Atychiphobia [fear of failure] is based on the struggles I have experienced with the educational system. The expectations enforced by myself, my loved ones, and my community manifested themselves in intense dread in the face of failure or academic tribulations.
+	The experience guides the player through thoughts and surreal imagery that embody emotions that feel bigger than the player themselves. Atychiphobia simulates brought about by crushing academic pressure. I hope that the application of these elements and digital environment in this piece will provoke the player and give them an abstract, empathetic look into the mind of a student in today’s educational system. 
+	The fear of failure is something I see being perpetuated in today’s classrooms. I have grappled with the fear of failure throughout my academic career, not because of the subject matter of my learning but by the delivery and current structures of the educational system. The toxic mindsets are fed to the students of my generation.  By learning how to work and adapt to the current collegiate institution, I have managed to find my own path to success. Not all students, however, can tame the fear of failure enough to be able to find a future for themselves in academia. 
+
+
 
 ### *Love Lies Here* : Video Game
 
