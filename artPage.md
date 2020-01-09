@@ -14,8 +14,9 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 </p>
 </details>
 
+https://vimeo.com/366819623
 
-
+Hear Abigail speak about her thesis project and it's inspirations in depth by viewing the [HIVE Senior Interviews (2019) on Vimeo](https://vimeo.com/366819623).
 
 ### *Love Lies Here* : Video Game (2018)
 
