@@ -16,6 +16,7 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 
 
+
 ### *Love Lies Here* : Video Game (2018)
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
@@ -76,11 +77,11 @@ The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
 ### CHOPSTICKZ (2018)
 
+As a part of the Engineering Design course at MITES, Abigail joined a team with three other MITES students to design and manufacture a robot to compete in a robotics competition. Through their relentless work on CHOPSTICKZ, named after the robot's usage of two incisors, Abigail and her three teammates were awarded with the *MITES Engineering Design Teamwork Award*.
+
 ![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
 
-As a part of the Engineering Design course at MITES, Abigail joined a team with three other MITES students to design and manufacture a robot. 
-
-Abigail gained machining and re-iterative design experience. 
+Abigail gained machining and re-iterative design experience through her work on the CHOPSTICKZ team. 
 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
 
