@@ -49,13 +49,13 @@ To capture the possible origins of La Llorona respectfully, I compiled from past
 
 ![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
 
-Cover displays orginal artwork.
-
 </p>
 </details>
 
 
 ### *Native Origins of La Llorona* : Lead Artist (2018)
+
+![native origin screen cap](https://github.com/abical/abical.github.io/blob/master/p%20image/native%20origins%20screen%20cap.png?raw=true)
 
 Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. 
 The project was stylistically inspired by the works of German artist [Lotte Reiniger](https://en.wikipedia.org/wiki/Lotte_Reiniger) and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
@@ -75,6 +75,12 @@ The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 ## Abigail's Research and Robotic Projects
 
 ### CHOPSTICKZ (2018)
+
+![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
+
+As a part of the Engineering Design course at MITES, Abigail joined a team with three other MITES students to design and manufacture a robot. 
+
+Abigail gained machining and re-iterative design experience. 
 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
 
