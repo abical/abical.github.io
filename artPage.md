@@ -16,6 +16,8 @@ Atychiphobia [fear of failure] is based on the struggles I have experienced with
 
 Hear Abigail speak about her thesis project and it's inspirations in depth by viewing the [HIVE Senior Interviews (2019) on Vimeo](https://vimeo.com/366819623).
 
+![interview img](https://github.com/abical/abical.github.io/blob/master/p%20image/say%20si%20interview%20screencap.PNG?raw=true)
+
 ### *Love Lies Here* : Video Game (2018)
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
