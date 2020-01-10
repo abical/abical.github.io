@@ -19,6 +19,8 @@ Hear Abigail speak about her thesis project and it's inspirations in depth by vi
 
 ![interview img](https://github.com/abical/abical.github.io/blob/master/p%20image/say%20si%20interview%20screencap.PNG?raw=true)
 
+-------------------------
+
 ### *Love Lies Here* : Video Game (2018)
 
 [Love Lies Here](https://say-si.itch.io/love-lies-here) is a plot based adventure game programmed in Unity. Abigail participated on the development team as a project manager and contributed to the story and programming. The game won a **Regional Gold Key and Silver Medal at the 2019 National Scholastic Art & Writing Awards**.
@@ -67,17 +69,23 @@ To capture the possible origins of La Llorona respectfully, I compiled from past
 Created in collaboration with SAY Sí artists: Nat Lopez Romero, Ava Keel, and Sarah Rodriguez for SAY Sí’s 2018 Story Seldom Told: Omitted Histories Gallery Installation. Origins of La Llorona is a premiere animation, exploring the local legend La Llorona and her origins. 
 The project was stylistically inspired by the works of German artist [Lotte Reiniger](https://en.wikipedia.org/wiki/Lotte_Reiniger) and American silhouettist [Kara Walker](http://www.karawalkerstudio.com/). After conducting extensive research we found that the woman who haunts the nightmares of many San Antonio children had a plethora of potential origin stories. 
 
+-------------------------
+
 ### *Goodnight Charlie* : Radio Drama (2019)
 
 Goodnight Charlie is a radio drama created in Adobe Audition in collaboration with SAY Sí artist, Ella Wilson, for SAY Sí’s 2018 September Showcase. The full podcase episode is available to stream on [SAY Sí's SoundCloud](https://soundcloud.com/user-430523344/good-night-charlie).
 
 The story follows ex-government worker, Charlie, and his wife, Aspen, who are on the run from their previous lives and identities. After arriving at a desolate motel, Charlie is mysteriously confronted about his wife’s suspicious behaviors. 
 
+-------------------------
+
 ### *Disloyal Camazotz* : Paper Craft (2017)
 
 Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece's 3D structure was digitally designed in [SketchUp](https://www.sketchup.com/), a modeling program, and decorated using Adobe Illustrator CC, a professional level vector art program. 
 
 The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
+
+-------------------------
 
 ## Abigail's Research and Robotic Projects
 
@@ -102,6 +110,6 @@ Abigail gained machining and re-iterative design experience through her work on 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
 
 
-
+check
 
 
