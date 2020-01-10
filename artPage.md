@@ -82,6 +82,10 @@ The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
 As a part of the Engineering Design course at MITES, Abigail joined a team with three other MITES students to design and manufacture a robot to compete in a robotics competition. Through their relentless work on CHOPSTICKZ, named after the robot's usage of two incisors, Abigail and her three teammates were awarded with the *MITES Engineering Design Teamwork Award*.
 
+![drill img](https://github.com/abical/abical.github.io/blob/master/p%20image/drill%20photo.jpg?raw=true)
+
+Abigail gained machining and re-iterative design experience through her work on the CHOPSTICKZ team. 
+
 ![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
 
 Abigail gained machining and re-iterative design experience through her work on the CHOPSTICKZ team. 
