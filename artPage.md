@@ -33,12 +33,12 @@ The full videogame is available for purchase on [SAY Sí's itch.io](https://say-
 <details><summary>Collaborators</summary>
 <p>
 	
-Created in collaboration with [Lee Ortiz](https://www.instagram.com/eeelbee/?hl=en), Sebastian Alvalos, Alyssa Li Herevia, and Ferris Carrillo for SAY Sí’s HIVE New Media 2018 Summer Game Jam. 
+Created in collaboration with Lee Ortiz, Sebastian Alvalos, Alyssa Li Herevia, and Ferris Carrillo for SAY Sí’s HIVE New Media 2018 Summer Game Jam. 
 	
 </p>
 </details>
 -------------------------
-
+<!---[Lee Ortiz](https://www.instagram.com/eeelbee/?hl=en)--->
 ### *Mother to Murderer (Mamá a la Asesina)* : La Llorona Zine (2018)
 
 ![mother to murderer presentation](https://github.com/abical/abical.github.io/blob/master/p%20image/presenting%20m2m%20resized.jpg?raw=true)
@@ -83,6 +83,8 @@ The story follows ex-government worker, Charlie, and his wife, Aspen, who are on
 ### *Disloyal Camazotz* : Paper Craft (2017)
 
 Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a homage to both Mayan culture and those who fought during the Mexican Revolution. This piece's 3D structure was digitally designed in [SketchUp](https://www.sketchup.com/), a modeling program, and decorated using Adobe Illustrator CC, a professional level vector art program. 
+
+![Camatotz img](https://github.com/abical/abical.github.io/blob/master/p%20image/Comatotz%20photo.jpg?raw=true)
 
 The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
