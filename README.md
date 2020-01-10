@@ -5,6 +5,8 @@
 
 Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
 
+She is a Freshman Representative for Harvard's Half Asian People's Association to celebrate her half-Filipino identity. 
+
 <!--- possible image![harvard img](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20img_%20(2).PNG?raw=true) --->
 
 ### Art Career
