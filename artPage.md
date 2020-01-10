@@ -49,9 +49,7 @@ In many global cultures, weeping women serve as cautionary legends. Our local we
 
 To capture the possible origins of La Llorona respectfully, I compiled from past projects and current examinations from articles and interviews with locals and historians. Thanks to the joint efforts of myself and my peers, I came to express these findings through a combination of original artistic and historical literature. I wanted Mother to Murderer to gently lead its reader through the various faces that past cultures, such as the Coahuiltecan, Aztecs, and Spanish settlers, have attributed to La Llorona, and how those interpretations reflect the value of women and mothers during those eras of society. Whether it be the reverence of dead mothers or the condemnation of jealousy, La Llorona manifests the societal pondering of the border between life and death or sin and virtue. 
 
-![mother to murderer display](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true)
-
-![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
+<img src= "https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20on%20display2.JPG?raw=true">
 
 <img src="https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true">
 
@@ -90,9 +88,8 @@ Abigail gained machining and re-iterative design experience through her work on 
 
 <details><summary>Additional Images</summary>
 <p>
-	
-![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
 
+<img src = "https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true">
 
 </p>
 </details>
