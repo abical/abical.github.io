@@ -88,7 +88,6 @@ Abigail gained machining and re-iterative design experience through her work on 
 
 ![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
 
-Abigail gained machining and re-iterative design experience through her work on the CHOPSTICKZ team. 
 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
 
