@@ -2,7 +2,7 @@
 
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
-Atychiphobia was Abigail's senior thesis at SAY Sí and an interactive installation based on the struggles I have experienced with the educational system. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
+Atychiphobia was Abigail's senior thesis at SAY Sí centered around the toxic view of failure she witnessed being perpetuated within the educational system. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
 
 <details><summary>Atychiphobia Artist Statement</summary>
 <p>
@@ -86,7 +86,15 @@ As a part of the Engineering Design course at MITES, Abigail joined a team with 
 
 Abigail gained machining and re-iterative design experience through her work on the CHOPSTICKZ team. 
 
+<details><summary>Additional Images</summary>
+<p>
+	
 ![chopstickz with abigail](https://github.com/abical/abical.github.io/blob/master/p%20image/chopstickz%20image.jpg?raw=true)
+
+
+</p>
+</details>
+-------------------------
 
 
 ### *SAWS Confluence Water Conference* : School Analysis (2017)
