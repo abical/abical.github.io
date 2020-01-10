@@ -53,6 +53,8 @@ To capture the possible origins of La Llorona respectfully, I compiled from past
 
 ![mother to murderer cover](https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true)
 
+<img src="https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true">
+
 </p>
 </details>
 -------------------------
