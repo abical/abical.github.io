@@ -88,6 +88,11 @@ Inspired by the Mayan bat god, Camazotz, this independently crafted piece was a 
 
 The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
+<details><summary>2D printed product</summary>
+<p>
+</p>
+</details>
+
 -------------------------
 
 ## Abigail's Research and Robotic Projects
