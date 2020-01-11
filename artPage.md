@@ -1,5 +1,5 @@
 ## Abigail's Art Projects
-
+-------------------------
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
 Atychiphobia was Abigail's senior thesis at SAY Sí centered around the toxic view of failure she witnessed being perpetuated within the educational system. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
