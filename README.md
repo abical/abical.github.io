@@ -1,6 +1,6 @@
 
 ## Abigail's Present
-
+-------------------------
 ### Harvard University
 
 Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
@@ -23,7 +23,7 @@ To see more of Abigail:
 [Twitter](https://twitter.com/alockcalpito)
 
 ## Abigail's Previous Accomplishments
-
+-------------------------
 ### M.I.T.E.S.
 
 ![MITES photo](https://github.com/abical/abical.github.io/blob/master/p%20image/mites%20img.PNG?raw=true)
