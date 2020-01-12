@@ -6,7 +6,8 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 
 <p><details><summary>Abigail's High School Awards</summary>
   <b>Major Distinctions</b> 
-  
+  <p>
+</p>
   <ul> <!-- HTML code for unordered list also <b> bolded -->
 <li>MITES Director’s Award (2018)</li>
 <li>MITES Engineering Design Teamwork Award (2018)</li>
@@ -20,7 +21,9 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>Principal’s Award for Educational Excellence (2018)</li>
 <li>Top Honor Roll (2015-2018)</li>
 </ul>
-
+  
+<p>
+</p>
 <b>Academic and Athletic distinction timeline</b> 
 <p>
 </p>
@@ -94,8 +97,6 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
   </p>
 
 In addition to her academic achievements, she also worked hard to be immensely involved in her student community. Her involvement ranged from swimming, acting, to leadership roles that she held in various academic organizations. She enjoyed participating in many of these activities with her friends.
-
-### 
 
 
 <!-- 
