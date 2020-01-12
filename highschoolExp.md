@@ -21,17 +21,65 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>Top Honor Roll (2015-2018)</li>
 </ul>
 
-<b>Academic distinction timeline</b> 
+<b>Academic and Athletic distinction timeline</b> 
 
-#### 2015
 
 #### 2016
 
+<ul>
+<li>English 1 Academic Achievement Award</li>
+<li>Mu Alpha Theta Induction</li>
+<li>International Thespian Society Induction </li>
+<li>Geometry PAP Top Student Award* </li>
+<li>Biology Top Student Award* </li>
+<li>French 2 PAP Top Student Award* </li>
+<li>Les Grands Concours-National French Exam Bronze Laureate</li>
+<li>Most Improved Swimmer </li>
+<li>State Swim Team</li>
+</ul>
+
 #### 2017
+
+<ul>
+<li>Algebra 2 PAP Top Student Award* </li>
+<li>Chemistry Top Student Award*</li> 
+<li>French 3 PAP Top Student Award* </li>
+<li>World History Top Student Award </li>
+<li>Sacramental Faith Academic Achievement Award</li>
+<li>Creative Writing Academic Achievement Award </li>
+<li>World History PAP Academic Achievement Award </li>
+<li>Les Grands Concours-National French Exam Bronze Laureate</li>
+<li>State Swim Team</li>
+</ul>
 
 #### 2018
 
+<ul>
+<li>MITES Director’s Award </li>
+<li>MITES Engineering Design Teamwork Award</li> 
+<li>Scholastic Art Award: Regional Gold Key for Love Lies Here Video Game</li> 
+<li>QuestBridge College Prep Scholar</li>
+<li>Principal’s Award for Educational Excellence</li> 
+<li>Computer Science Top Student Award* </li>
+<li>French 4 Top Student Award* </li>
+<li>AP United States History DC Top Student Award*</li>
+<li>AP English Language and Composition Top Student Award*</li> 
+<li>Social Justice Academic Achievement Award </li>
+<li>TAPPS Swimming Academic All-State Scholar </li>
+<li>State Swim Team</li>
+</ul>
+
 #### 2019
+
+<ul>
+<li>AP French 5 Top Student Award*</li>
+<li>Scholastic Art Award: National Silver Medal  for Love Lies Here Video Game</li>
+<li>American Association of Teachers of French Outstanding Senior Award</li>
+<li>Poetry Out Loud State Contestant </li>
+<li>AP Calculus Top Student Award*</li>
+</ul>
+
+*Top Student Awards are awarded to the student who attained the highest GPA in the course
 
  </details>
  </p>
@@ -41,37 +89,9 @@ In addition to her academic achievements, she also worked hard to be immensely i
 ### 
 
 
-<!-- MITES Director’s Award (2018)
-MITES Engineering Design Teamwork Award (2018)
-Scholastic Art Award: National Silver Medal  for Love Lies Here Video Game (2019)
-Scholastic Art Award: Regional Gold Key for Love Lies Here Video Game (2018)
-TAPPS Swimming Academic All-State Scholar (2018)
-American Association of Teachers of French Outstanding Senior Award (2019)
-Poetry Out Loud State Contestant (2019)
+<!-- 
 Les Grands Concours-National French Exam Bronze Laureate (2015, 2016, 2017)
-QuestBridge College Prep Scholar
-Principal’s Award for Educational Excellence (2018)
 Top Honor Roll (2015-2018)
-Mu Alpha Theta Induction (2016)
-International Thespian Society Induction (2016)
-AP Calculus Top Student Award* (2019)
-Geometry PAP Top Student Award* (2016)
-Algebra 2 PAP Top Student Award* (2017)
-Biology Top Student Award* (2016)
-Chemistry Top Student Award* (2017)
-Computer Science Top Student Award* (2018)
-AP French 5 Top Student Award* (2019)
-French 2 PAP Top Student Award* (2016)
-French 3 PAP Top Student Award* (2017)
-French 4 Top Student Award* (2018)
-World History Top Student Award (2017)
-AP United States History DC Top Student Award* (2018)
-English 1 Academic Achievement Award (2015)
-AP English Language and Composition Top Student Award* (2018)
-Sacramental Faith Academic Achievement Award (2017)
-Creative Writing Academic Achievement Award (2017)
-World History PAP Academic Achievement Award (2017)
-Social Justice Academic Achievement Award (2018)
 Most Improved Swimmer (2015-2016)
 State Swim Team (2016-2018)
 *Top Student Awards indicate that I attained the highest GPA in the course -->
