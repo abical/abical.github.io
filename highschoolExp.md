@@ -22,10 +22,12 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 </ul>
 
 <b>Academic and Athletic distinction timeline</b> 
+<p>
+</p>
 
-
-#### 2016
-
+<h4>2016</h4>
+  <p>
+  </p>
 <ul>
 <li>English 1 Academic Achievement Award</li>
 <li>Mu Alpha Theta Induction</li>
@@ -37,9 +39,11 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>Most Improved Swimmer </li>
 <li>State Swim Team</li>
 </ul>
-
-#### 2017
-
+  <p>
+  </p>
+<h4>2017</h4>
+  <p>
+  </p>
 <ul>
 <li>Algebra 2 PAP Top Student Award* </li>
 <li>Chemistry Top Student Award*</li> 
@@ -51,9 +55,11 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>Les Grands Concours-National French Exam Bronze Laureate</li>
 <li>State Swim Team</li>
 </ul>
-
-#### 2018
-
+  <p>
+  </p>
+<h4>2018</h4>
+  <p>
+  </p>
 <ul>
 <li>MITES Director’s Award </li>
 <li>MITES Engineering Design Teamwork Award</li> 
@@ -68,9 +74,11 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>TAPPS Swimming Academic All-State Scholar </li>
 <li>State Swim Team</li>
 </ul>
-
-#### 2019
-
+  <p>
+  </p>
+<h4>2019</h4>
+  <p>
+  </p>
 <ul>
 <li>AP French 5 Top Student Award*</li>
 <li>Scholastic Art Award: National Silver Medal  for Love Lies Here Video Game</li>
@@ -78,11 +86,12 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 <li>Poetry Out Loud State Contestant </li>
 <li>AP Calculus Top Student Award*</li>
 </ul>
-
+  <p>
+  </p>
 *Top Student Awards are awarded to the student who attained the highest GPA in the course
 
  </details>
- </p>
+  </p>
 
 In addition to her academic achievements, she also worked hard to be immensely involved in her student community. Her involvement ranged from swimming, acting, to leadership roles that she held in various academic organizations. She enjoyed participating in many of these activities with her friends.
 
