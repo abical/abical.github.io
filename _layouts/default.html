@@ -22,6 +22,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p><a href={% link artPage.md %}> Art Page</a></p>
+        <p><a href={% link harvardExp.md %}> Harvard Journey</a></p>
+        <p><a href={% link highschoolExp %}> High School</a></p>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
