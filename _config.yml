@@ -1,16 +1,4 @@
 theme: jekyll-theme-minimal
 title: Abigail Lockhart-Calpito
 logo: /p image/noice photo (3).jpg
-description: Abigail is a freshman at Harvard College studying engineering. She is originally from San Antonio, Texas. /test
-
-docs_list_title: any doc
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+description: Abigail is a freshman at Harvard College studying engineering. She is originally from San Antonio, Texas. 
