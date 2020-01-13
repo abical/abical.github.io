@@ -14,13 +14,7 @@ She is a Freshman Representative for Harvard's Half Asian People's Association t
 Abigail is a mixed media artist with heavy experience with virtual media and a background in traditional art. 
 A detailed list of Abigail's projects can be found on her [projects page](./artPage.html). 
 
-To see more of Abigail:
-
-[LinkedIn](https://www.linkedin.com/in/abigail-lockhart-calpito-2019243/)
-
-[Facebook](https://www.facebook.com/abigail.lockhartcalpito)
-
-[Twitter](https://twitter.com/alockcalpito)
+To see more of Abigail or to inquire about her tutoring services, explore the pages located along the sidebar. 
 
 ## Abigail's Previous Accomplishments
 -------------------------
