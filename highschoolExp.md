@@ -1,6 +1,8 @@
 <!---this will be an .md file--->
 ## Abigail's High School Experience
 
+![highschool img](https://github.com/abical/abical.github.io/blob/master/p%20image/highschool%20img.jpg?raw=true)
+
 Abigail attended a private Catholic school in San Antonio, Texas throughout her middle and highschool career. 
 While attending, Abigail took a variety of advanced courses, including AP, Dual Credit, and Pre-AP courses. She academically distinguished herself through her hard work and commitment to her studies, despite experiencing personal struggles outside of school. Due to her excellent performance in school, she earned many academic awards. A list and timeline of Abigail's high school awards and honors can be viewed below. Her academic success brought Abigail to the Northeast, where she now studies at Harvard University.
 
