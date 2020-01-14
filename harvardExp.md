@@ -1,6 +1,12 @@
 ## Abigail's Time at Harvard *(so far)*
 -------------------------
+### Emerging Scholar's Program
 
+The Emerging Scholars Program is an academic enrichment program used to support students who are interested in pursuing a STEM career. As an emerging scholar, Abigail participates in a weekly math seminar that focuses on higher-level problem solving that applies mathematical concepts to their STEM field of interest. She collaborates with students to analyze problems, build viable mathematical models, and present their findings to their peers. More information about the program is available on the [Emerging Scholars website](https://emergingscholars.math.harvard.edu/about).
+
+![emerging scholars outing](https://github.com/abical/abical.github.io/blob/master/p%20image/emerging%20scholars%20program%20img.jpg?raw=true)
+
+This image was taken at an Emerging Scholars outing.
 
 ### Half Asian People's Association
 -------------------------
