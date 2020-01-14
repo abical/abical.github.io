@@ -4,7 +4,7 @@ Abigail has experience in tutoring middle schoolers and high schoolers in math s
 
 Visit Abigail's [GoPeer profile](https://gopeer.org/profile/5db4d6da8f188f5481853b3b) to book a session for yourself or your child. 
 
-To view some of Abigail's academic credentials, visit her [high school experience page](./highschoolExp.html). Abigail also has additional experience in working with middle and highschool aged students thanks to her work as a SAY Sí mentor. More information about Abigail's work as a working artist mentor, view her SAY Sí page. 
+To view some of Abigail's academic credentials, visit her [high school experience page](./highschoolExp.html). Abigail also has additional experience in working with middle and highschool aged students thanks to her work as a SAY Sí mentor. For more information about Abigail's work as a working artist mentor, view her SAY Sí page. 
 
 Abigail is available to tutor K-12 students in the following subjects:
 
