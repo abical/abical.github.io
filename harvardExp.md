@@ -6,6 +6,8 @@
 -------------------------
 Half Asian People's Association (HAPA) at Harvard is a cultural organization in which students of half asian ethnicities can come together to celebrate their shared mixed identities. 
 
+![HAPA IMG](https://github.com/abical/abical.github.io/blob/master/p%20image/HAPA-Fall-2019-67%20(1).jpg?raw=true)
+
 Abigail began her involvement with HAPA by becoming a freshman representative in the fall semester of 2019. She will continue her involvement throughout the spring semester and fall semester of 2020 as an acting member of the HAPA board. 
 
 ### Harvard College Film Festival
