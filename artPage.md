@@ -66,7 +66,7 @@ To capture the possible origins of La Llorona respectfully, I compiled from past
 
 ### *Native Origins of La Llorona* : Lead Artist (2018)
 
-*Native Origins of La Llorona* is an animatic, created with Adobe Premiere, which explores the local legend La Llorona and her origins. As lead artist of the *Native Origins of La Llorona*, Abigail guided her fellow SAY Sí artists in the research, writing, production, and installation of the animatic. 
+*Native Origins of La Llorona* is an animatic, created with Adobe Premiere, which explores the local legend La Llorona and her origins. As lead artist of the project, Abigail guided her fellow SAY Sí artists in the research, writing, production, and installation of the animatic. 
 
 ![native origin screen cap](https://github.com/abical/abical.github.io/blob/master/p%20image/native%20origins%20screen%20cap.png?raw=true)
 
