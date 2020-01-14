@@ -4,7 +4,7 @@
 ![highschool img](https://github.com/abical/abical.github.io/blob/master/p%20image/highschool%20img.jpg?raw=true)
 
 Abigail attended a private Catholic school in San Antonio, Texas throughout her middle and highschool career. 
-While attending, Abigail took a variety of advanced courses, including AP, Dual Credit, and Pre-AP courses. She academically distinguished herself through her hard work and commitment to her studies, despite experiencing personal struggles outside of school. Due to her excellent performance in school, she earned many academic awards. A list and timeline of Abigail's high school awards and honors can be viewed below. Her academic success brought Abigail to the Northeast, where she now studies at Harvard University.
+While attending, Abigail took a variety of advanced courses, including AP, Dual Credit, and Pre-AP courses. She academically distinguished herself through her hard work and commitment to her studies, despite experiencing personal struggles outside of school. In her junior year of highschool Abigail participated in *NASA's Highschool Aerospace Scholars (HAS) program*. Due to her excellent performance in school, she earned many academic awards. A list and timeline of Abigail's high school awards and honors can be viewed below. Her academic success brought Abigail to the Northeast, where she now studies at Harvard University.
 
 <p><details><summary>Abigail's High School Awards</summary>
   <b>Major Distinctions</b> 
@@ -100,10 +100,3 @@ While attending, Abigail took a variety of advanced courses, including AP, Dual 
 
 In addition to her academic achievements, she also worked hard to be immensely involved in her student community. Her involvement ranged from swimming, acting, to leadership roles that she held in various academic organizations. She enjoyed participating in many of these activities with her friends.
 
-
-<!-- 
-Les Grands Concours-National French Exam Bronze Laureate (2015, 2016, 2017)
-Top Honor Roll (2015-2018)
-Most Improved Swimmer (2015-2016)
-State Swim Team (2016-2018)
-*Top Student Awards indicate that I attained the highest GPA in the course -->
