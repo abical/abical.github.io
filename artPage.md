@@ -98,7 +98,11 @@ The final product was sold and displayed at SAY Sí’s 2017 Muertitos Festival.
 
 <details><summary>2D printed product</summary>
 <p>
-	![product img](https://github.com/abical/abical.github.io/blob/master/p%20image/Disloyal%20Comatotz%20Product%20Print%20(1).png?raw=true)
+	<p>
+	</p>
+<img src="https://github.com/abical/abical.github.io/blob/master/p%20image/mother%20to%20murderer%20cover.jpg?raw=true">
+	<p>
+	</p>
 </p>
 </details>
 
