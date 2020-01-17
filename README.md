@@ -33,7 +33,10 @@ Abigail was awarded the Director's Award at the conclusion of MITES. Her Enginee
 [San Antonio Youth Sí (SAY Sí)](http://saysi.org/) is an after-school art program where Abigail collaborated with fellow artists to complete individual or group projects on a full week basis. 
 Abigail was a student in the [HIVE New Media Studio](https://vimeo.com/366822099). There, she had the opportunity to work with various interactive media such as creative coding, audio, animation, and game making. A detailed list of Abigail's SAY Sí projects can be found [here](./artPage.html). 
 
-At the beginning of her senior year, Abigail was hired as a Student Mentor for SAY Sí's Middle School program.
+Apart from her work on art projects, Abigail distinguished herself as a leader in SAY Sí when she was elected as a HIVE Studio Liaison. She worked to facilitate in-studio meetings, plan for the annual Story Seldom Told gallery exhibition, and maintain communication between student artists and SAY Sí administration. 
+
+At the beginning of her senior year, Abigail was hired as a Student Mentor for SAY Sí’s Middle School program (WAM). As a mentor, Abigail aided her studio’s Teaching Artists in guiding the middle school artists in the creation and completion of their individual or group projects.
+
 
 
 ### High School
