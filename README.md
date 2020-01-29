@@ -3,7 +3,7 @@
 -------------------------
 ### Harvard University
 
-![harvard logo](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20university%20logo.png?raw=true)
+![harvard logo](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20university%20logo%20(2).png?raw=true)
 
 Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
 
