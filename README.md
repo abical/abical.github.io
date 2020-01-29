@@ -3,6 +3,8 @@
 -------------------------
 ### Harvard University
 
+![harvard logo](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20university%20logo.png?raw=true)
+
 Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
 
 She is a Freshman Representative for Harvard's Half Asian People's Association to celebrate her half-Filipino and half-Scottish identity. 
