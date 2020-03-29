@@ -5,9 +5,8 @@
 
 ![harvard logo](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20university%20logo%20(2).png?raw=true)
 
-Abigail currently attends Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. 
-
-She is a Freshman Representative for Harvard's Half Asian People's Association to celebrate her half-Filipino and half-Scottish identity. 
+Abigail is currently a freshman at Harvard University in Cambridge, MA. She is an aspiring engineer and an active artist. Abigail prides herself in her involvement in campus activities outside of the realm of academia. 
+She is an Event Chair for Harvard's Half Asian People's Association to celebrate her half-Filipino and half-Scottish identity. Additionally, Abigail was on various teams in order to plan two on-campus events: HackImpact and the seventh annual Harvard College Film Festival. While the two events were in the works for the Spring Semester of 2020, they have been postponed due to the COVID-19 outbreak.
 
 <!--- possible image![harvard img](https://github.com/abical/abical.github.io/blob/master/p%20image/harvard%20img_%20(2).PNG?raw=true) --->
 
