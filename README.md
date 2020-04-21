@@ -42,7 +42,7 @@ At the beginning of her senior year, Abigail was hired as a Student Mentor for S
 
 ### High School
 
-Abigail attended Providence Catholic School in San Antonio, Texas. Providence is an all girls prepratory school for middle and high schoolers. Abigail distinguished herself by becoming the President of Providence's [Mu Alpha Theta chapter](https://mualphatheta.org/) as well as the Co-Chair of their Global Justice Committee. To read more about Abigail's highschool experience, view her [highschool experience page](https://abical.github.io/highschoolExp.html).
+Abigail attended a private school in San Antonio, Texas. She distinguished herself by becoming the President of her school’s [Mu Alpha Theta chapter](https://mualphatheta.org/) as well as the Co-Chair of their Global Justice Committee. To read more about Abigail’s highschool experience, view her [highschool experience page](https://abical.github.io/highschoolExp.html).
 
 She graduated second in her class in 2019. 
 
