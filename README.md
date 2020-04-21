@@ -12,10 +12,14 @@ She is an Event Chair for Harvard's Half Asian People's Association to celebrate
 
 ### Art Career
 
-Abigail is a mixed media artist with heavy experience with virtual media and a background in traditional art. 
+Abigail is a mixed media artist with heavy experience in virtual media and a background in traditional art. 
 A detailed list of Abigail's projects can be found on her [projects page](./artPage.html). 
 
-To see more of Abigail or to inquire about her tutoring services, explore the pages located along the sidebar. 
+### Tutoring Experience
+
+Starting in middle school years, Abigail began tutoring her peers and younger students in many subjects ranging from math, French, and English. Now, Abigail has been tutoring students for over 6 years. She started working [through GoPeer](https://gopeer.org/profile/5db4d6da8f188f5481853b3b?referrer=wS1vzq), an online tutoring resource that connects students with undergraduate tutors, in December of 2019. Since then, she has hosted over 100 tutoring sessions through the platform.
+
+To see more of Abigail or to inquire about her tutoring services, explore the pages located along the sidebar.
 
 ## Abigail's Previous Accomplishments
 -------------------------
