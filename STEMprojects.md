@@ -2,8 +2,9 @@
 
 ### Turf Wars Robot: GD&Tea (2022)
 
-For Harvard's Computer Aided Design course, Abigail worked with a team of three other engineering students to design and manufacture a robot that can traverse ramps and transport ball-shaped gems to the field goals. 
+For Harvard's Computer Aided Design course, Abigail worked with a team of three other engineering students to design and manufacture a robot that can traverse ramps and transport ball-shaped gems to the field goals. (currently in progress)
 
+![wipimg](https://github.com/abical/abical.github.io/blob/master/p%20image/IMG-4016.jpg?raw=true)
 
 
 ### CHOPSTICKZ (2018)
