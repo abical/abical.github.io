@@ -3,7 +3,7 @@
 
 ### Harvard Radcliffe Asian American Association
 
-
+![2022 board photo](https://github.com/abical/abical.github.io/blob/master/p%20image/DSC03426.JPG?raw=true)
 
 -------------------------
 ### Emerging Scholar's Program
