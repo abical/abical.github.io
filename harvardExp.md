@@ -5,6 +5,12 @@
 
 ![2022 board photo](https://github.com/abical/abical.github.io/blob/master/p%20image/DSC03426.JPG?raw=true)
 
+The Harvard-Radcliffe Asian American Association (AAA), one of the largest student-run ethnic organizations at Harvard College, is dedicated to creating a diverse and nurturing community of Asian American undergraduates at Harvard University. AAA organizes a large variety of educational-political, cultural, outreach, and social events throughout the year.
+
+Abigail has contributed to AAA and the Asian American community at Harvard since joining the executive board in 2021 as Co-Tech chair. As Co-Tech chair, Abigail helps maintain AAA's website and connecting them with ScholarshipOwl for a sponsorship deal in the Spring of 2022. 
+
+She has been active on board through the 2021-2022 school year and will continue in the Fall of 2022. 
+
 -------------------------
 ### Emerging Scholar's Program
 
