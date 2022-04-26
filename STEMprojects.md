@@ -1,9 +1,15 @@
 ## Abigail's Research and Robotic Projects
 
+### Turf Wars Robot: GD&Tea (2022)
+
+For Harvard's Computer Aided Design course, Abigail worked with a team of three other engineering students to design and manufacture a robot that can traverse ramps and transport ball-shaped gems to the field goals. 
+
+
+
 ### CHOPSTICKZ (2018)
 
 As a part of the Engineering Design course at MITES, Abigail joined a team with three other MITES students 
-to design and manufacture a robot to compete in a robotics competition. 
+to design and manufacture a robot to compete in a robotics competition on a flat field. 
 Through their relentless work on CHOPSTICKZ, named after the robot's usage of two incisors, 
 Abigail and her three teammates were awarded with the *MITES Engineering Design Teamwork Award*.
 
