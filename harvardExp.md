@@ -1,4 +1,4 @@
-## Abigail's Time at Harvard *(so far)*
+## Abigail's Time at Harvard *(so far)* **(THIS PAGE IS BEING UPDATED 2024)**
 -------------------------
 
 ### Harvard Radcliffe Asian American Association
