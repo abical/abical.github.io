@@ -10,7 +10,7 @@ I presented my research at the Material Research Society’s Fall meeting in 202
 ![fall22MRS.jpg](https://github.com/abical/abical.github.io/blob/master/p%20image/fall22MRS.jpg?raw=true)
 
 ### Tesla Experience: Process, Dimensional, and Manufacturing Engineering (Spring & Summer 2023)
-
+Info to be added
 
 ### Turf Wars Robot: GD&Tea (2022)
 
