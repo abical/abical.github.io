@@ -30,12 +30,12 @@ Abigail began her involvement with HAPA by becoming a freshman representative in
 
 ### Harvard College Film Festival
 -------------------------
-The Harvard College Film Festival is one of the largest student-run film festivals devoted to undergraduate-produced films. The film festival has been hosted annually on Harvard's campus for the past seven years. 
-The film festival provides students across the globe with an opportunity to create and submit films to be screened, judged by a well-acclaimed panel, and awarded for creative excellence and powerful perspective.
+The Harvard College Film Festival (HCCF) is one of the largest student-run film festivals devoted to undergraduate-produced films. The film festival has been hosted annually on Harvard's campus for the past seven years. 
+The film festival provides students across the globe with an opportunity to create and submit films to be screened, judged by a well-acclaimed panel, and awarded for creative excellence and powerful perspective. Abigail joined HCCF as a Freshman and worked on outreach to encourage film makers from across the country to submit to the festival. In the Spring of 2020, Abby joined the Executive Board to focus her efforts more intensely on the festival. Unfortunately, due to the COVID-19 pandemic, the 2020 festival was cancelled.
 
 ### Harvard Kennedy School: Institute of Politics
 -------------------------
 
 ![hks logo](https://github.com/abical/abical.github.io/blob/master/p%20image/hks%20logo.png?raw=true)
 
-In her freshman year, Abigail worked as a Forum Usher for Harvard Kennedy School's Institute of Politics. She enjoyed helping the HKS community through ushering the discussions, debates, and political forums hosted in the John F. Kennedy Jr. Fourm. 
+In her freshman year, Abigail worked as a Forum Usher for Harvard Kennedy School's Institute of Politics. She enjoyed helping the HKS community through ushering the discussions, debates, and political forums hosted in the John F. Kennedy Jr. Forum. 
