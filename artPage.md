@@ -4,7 +4,7 @@
 ### *WORK IN PROGRESS: La vie passe, 2023 Winter in Retrospect* : Digital Art Series (2024)
 This art series will aim to promote love, peace, and honor among my communities (works in below). I am looking for additional suggestions for great minds and contributors to humanitarian efforts to commemorate. Two figures I am currently working on are St. Maximilian Kolbe and Dr. Fe Del Mundo. 
 
-![st.kolbe y dr.mundo ABIGAIL LOCKHARTCALPITO.png](https://github.com/abical/abical.github.io/blob/master/p%20image/st.kolbe%20y%20dr.mundo%20ABIGAIL%20LOCKHARTCALPITO.png)
+![st.kolbe y dr.mundo ABIGAIL LOCKHARTCALPITO.png](https://github.com/abical/abical.github.io/blob/master/p%20image/st.kolbe%20y%20dr.mundo%20ABIGAIL%20LOCKHARTCALPITO.png?raw=true)
 
 <details><summary>Dr. Fe Del Mundo</summary>
 <p>
