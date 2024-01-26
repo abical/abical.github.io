@@ -1,8 +1,20 @@
 ## Abigail's Research and Robotic Projects
 
+### Soft Robotics Toolkit: Wearable Soft Robotics Gripper (2022-2023)
+For Harvard's Biodesign Lab, I worked on the Soft Robotics Toolkit (SRT) Wearable Soft Robotics Gripper. My focus was to create a SRT that could expose users to the field of soft robotics through the concept of learning through making/ learning by playing. In this work, I learned a lot about educational, medical, and child friendly design as well as soft robotic fabrication techniques. 
+
+![wearable soft robotic gripper toolkit.png](https://github.com/abical/abical.github.io/blob/master/p%20image/wearable%20soft%20robotic%20gripper%20toolkit.png)
+
+I presented my research at the Material Research Society’s Fall meeting in 2022 at their poster presentation session.
+
+![fall22MRS.jpg](https://github.com/abical/abical.github.io/blob/master/p%20image/fall22MRS.jpg)
+
+### Tesla Experience: Process, Dimensional, and Manufacturing Engineering (Spring & Summer 2023)
+
+
 ### Turf Wars Robot: GD&Tea (2022)
 
-For Harvard's Computer Aided Design course, Abigail worked with a team of three other engineering students to design and manufacture a robot that can traverse ramps and transport ball-shaped gems to the field goals. (currently in progress)
+For Harvard's Computer Aided Design course, Abigail worked with a team of three other engineering students to design and manufacture a robot that can traverse ramps and transport ball-shaped gems to the field goals. (Project finished, documentation to follow)
 
 ![wipimg](https://github.com/abical/abical.github.io/blob/master/p%20image/IMG-4016.jpg?raw=true)
 
