@@ -1,5 +1,34 @@
 ## Abigail's Art Projects
 -------------------------
+
+### *WORK IN PROGRESS: La vie passe, 2023 Winter in Retrospect* : Digital Art Series (2024)
+This art series will aim to promote love, peace, and honor among my communities (works in below). I am looking for additional suggestions for great minds and contributors to humanitarian efforts to commemorate. Two figures I am currently working on are St. Maximilian Kolbe and Dr. Fe Del Mundo. 
+
+
+<details><summary>Dr. Fe Del Mundo</summary></summary>
+<p>
+<p>
+</p>	
+Dr. Fe Del Mundo, a Filipina pediatrician who is known for her kindness and tremendous contributions to medical communities in Boston, MA at the Boston Children's Hospital, at Harvard Medical School, and in Quezon City at the Philippine Children's Medical Center- just to name a few. She is also the doctor that the Fe Del Mundo Medical Center is named after.
+I learned more of Fe Del Mundo this past semester under the teaching of Lady Aileen Orsal during her Intro to Filipino language class at Harvard University. 
+
+Scholars at the Countway Library, associated with the Harvard Center for the History of Medicine, the Medical School, and the Harvard T.H. Chan School of Public Health, have written and explored her involvements at Harvard. Read more about her history at Harvard here: https://lnkd.in/eCcq3KNR.
+</p>
+</details>
+<p>
+</p>
+<details><summary>St. Maximilian Kolbe</summary>
+<p>
+<p>
+</p>	
+St. Maximilian Kolbe was a Polish Catholic priest who was martyred during World War II. He was well known for his theological writings and letters in his youth. In his later years, St. Maximilian Kolbe was outspoken against the Nazi regime. Subsequently, his writings led him to being arrested and he was martyred at Auschwitz concentration camp, in Oświęcim, Poland when he took the place of a fellow prisoner who had a wife and child. He is honored at by catholics internationally for his significant literary contributions to the Church and his bravery at the end of his life. 
+I learned of him during my education at a Catholic School I attended middle through high school under the Archdiocese of San Antonio.
+</p>
+</details>
+-------------------------
+
+
+
 ### *Atychiphobia [fear of failure]* : Unity Project (2019)
 
 Atychiphobia was Abigail's senior thesis at SAY Sí centered around the toxic view of failure she witnessed being perpetuated within the educational system. The game was built in Unity, programmed in C#, and uses the XBox Kinect for player tracking and mapping.
