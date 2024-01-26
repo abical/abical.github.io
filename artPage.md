@@ -13,7 +13,7 @@ This art series will aim to promote love, peace, and honor among my communities 
 Dr. Fe Del Mundo, a Filipina pediatrician who is known for her kindness and tremendous contributions to medical communities in Boston, MA at the Boston Children's Hospital, at Harvard Medical School, and in Quezon City at the Philippine Children's Medical Center- just to name a few. She is also the doctor that the Fe Del Mundo Medical Center is named after.
 I learned more of Fe Del Mundo this past semester under the teaching of Lady Aileen Orsal during her Intro to Filipino language class at Harvard University. 
 
-Scholars at the Countway Library, associated with the Harvard Center for the History of Medicine, the Medical School, and the Harvard T.H. Chan School of Public Health, have written and explored her involvements at Harvard. Read more about her history at Harvard here: https://lnkd.in/eCcq3KNR.
+Scholars at the Countway Library, associated with the Harvard Center for the History of Medicine, the Medical School, and the Harvard T.H. Chan School of Public Health, have written and explored her involvements at Harvard. Read more about her history at Harvard [here](https://lnkd.in/eCcq3KNR).
 </p>
 </details>
 <p>
